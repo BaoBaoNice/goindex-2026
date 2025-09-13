@@ -4,9 +4,9 @@ var authConfig = {
     // "version" : "1.0.7", // Program Version
     "hash" : "18bc8f4", // master OR your HASH, do not leave blank (changes each time you make a commit)
     "theme" : "classic", // material  classic 
-    "client_id": "319422402323-9hi05e8j94rs200m9usgqm11u7m5mcnm.apps.googleusercontent.com", // client_id from rclone config
-    "client_secret": "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", // client_secret from rclone config
-    "refresh_token": "1//0gFfLYjoXUfqmCgYIARAAGBASNwF-L9IrQlspSPvYa5DQGLECurl0crC1z_QcQ72VvlBfOk7_7auA59jjLAxpatPQN6u1m58dqMc", // authorized refresh token from rclone config
+    "client_id": "xxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com", // client_id from rclone config
+    "client_secret": "xxxxxxxxxxxxxxxxxxxxxxx", // client_secret from rclone config
+    "refresh_token": "xxxxxxxxxxxxxxxxxxxxxxx", // authorized refresh token from rclone config
     "root": "root" // ROOT_FOLDER from rclone config,
   };
   
